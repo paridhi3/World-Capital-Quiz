@@ -1,6 +1,6 @@
 # World Capital Quiz
 
-A web application that quizzes users on world capitals. This project is built with Node.js, Express, PostgreSQL, and EJS for templating.
+A web application that quizzes users on world capitals. This project is built with Node.js, Express, PostgreSQL, and EJS for templating. It is part of [Angela Yu's Web Development course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy.
 
 ## Features
 
